@@ -1,5 +1,5 @@
 ### 👋 Hi there
-- 🏫 I'm an Internet Systems student at [@IFSP](https://www.ifsp.edu.br/)
+- 🏫 I'm Jonatha Mathews and i'm an Internet Systems gratuate student at [@IFSP - Birigui](https://www.ifsp.edu.br/).
 - 💻 Front-End | Software engineer (In progress).
 - 👀 I’m interested in Web development and i'm looking for my first job.
 - 🌱 I’m currently learning JavaScript, React, Node.js and any more!
