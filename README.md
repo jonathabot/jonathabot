@@ -1,5 +1,5 @@
 ### 👋 Hi there, welcome to my GitHub page! 
-- 🏫 My name is Jonatha and i'm an Internet Systems gratuate student at [@IFSP - Birigui](https://www.ifsp.edu.br/).
+- 🏫 My name is Jonatha and i'm an Internet Systems graduate student at [@IFSP - Birigui](https://www.ifsp.edu.br/).
 - 💻 Actually planning to be a Front-End | Software engineer (In progress).
 - 👀 I’m interested in Web development and i'm looking for my first job.
 - 🌱 I’m currently learning JavaScript, React, Node.js and any more!
