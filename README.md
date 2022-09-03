@@ -3,7 +3,6 @@
 - 💻 Front-End | Software engineer (In progress).
 - 👀 I’m interested in Web development and i'm looking for my first job.
 - 🌱 I’m currently learning JavaScript, React, Node.js and any more!
-- 📫 How to reach me [My personal e-mail](lebotelhon@gmail.com)
 <br/>
 
 ### Technologies & Tools
