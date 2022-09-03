@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning JavaScript, React, Node.js and any more!
 <br/>
 
-### Technologies & Tools
+### 💻 Technologies & Tools
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
