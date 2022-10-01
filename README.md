@@ -19,5 +19,5 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 <!--
-**jonathauniverse/jonathauniverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jonathabot/jonathabot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
