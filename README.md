@@ -7,7 +7,7 @@
 
 ## Hello everyone!
 
-My name is Jonatha and I'm a B.Tech in Internet Systems student. My focus in the moment is web development and I’m currently learning JavaScript, React, Node.js and many more! Feel free to check my projects. 
+Welcome to my GitHub page. My name is Jonatha and I'm a B.Tech in Internet Systems student. My focus in the moment is web development and I’m currently learning JavaScript, React, Node.js and many more! Feel free to check my projects. 
 
 ## Detailed information
 
