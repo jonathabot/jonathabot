@@ -8,7 +8,6 @@ Welcome to my GitHub page. My name is Jonatha and I'm a B.Tech in Internet Syste
 * **Age**: 21
 * **Living in**: Birigui - SP, Brazil
 * **Stack**: HTML5, CSS3, JavaScript, React & NodeJS
-* **University**: [@IFSP - Birigui](https://www.bri.ifsp.edu.br/)
 
 ## More 
 * I love Music Production (Ableton)
