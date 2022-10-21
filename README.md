@@ -12,5 +12,5 @@ Welcome to my GitHub page. My name is Jonatha and I'm a B.Tech in Internet Syste
 
 ## More 
 * I love Music Production (Ableton)
-* My dream is find a way to connect music with software engineering and build a [Mecha](https://www.google.com/search?q=Mecha+robot) and pilot it!  
-* My all-time favorite anime is Neon Genesis Evangelion.
+* My dreams are find a way to connect music with software engineering & build a [Mecha](https://www.google.com/search?q=Mecha+robot) and pilot it!  
+* My all-time favorite anime is Neon Genesis Evangelion. 
