@@ -13,6 +13,6 @@ My name is Jonatha and I'm a B.Tech student in Internet Systems. My focus is **W
 <img src="https://i.pinimg.com/originals/9d/8e/fa/9d8efa6843eeef3b5700f35ecfe3eef5.gif" alt="drawing" width="380"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathabot)](https://github.com/jonathabot/github-readme-stats)
 
 ## More 
-* Some of my hobbies are: Music Production (Ableton) and Composition, Modern Witchcraft and Overwatch.  
+* Some of my hobbies are: Music Production (Ableton) and Composition, Modern Witchcraft, Talking in English and play Overwatch.  
 * My dreams are to find a way to connect art with software engineering & build a [Mecha](https://www.google.com/search?q=Mecha+robot) and pilot it!  
 * My all-time favorite anime is Neon Genesis Evangelion. 
