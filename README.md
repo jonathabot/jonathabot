@@ -17,4 +17,3 @@ My name is Jonatha and I'm a B.Tech student in Internet Systems. My focus is **W
 * Some of my hobbies are: Music Production (Ableton) and Composition, Modern Witchcraft, Talking in English and play Overwatch.  
 * One of my dreams are to find a way to connect art with software engineering & build a [Mecha](https://www.google.com/search?q=Mecha+robot) and pilot it!  
 * My all-time favorite anime is Neon Genesis Evangelion. 
-* My profile picture is an AI-generated digital art made with Stable Diffusion and Dreambooth technologies. 
