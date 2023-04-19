@@ -4,8 +4,7 @@ My name is Jonatha and I'm a B.Tech student in Internet Systems. My focus is **W
 
 ## Detailed information
 
-* **Name**: Jonatha Botelho
-* **Age**: 21
+* **Age**: 22
 * **Living in**: Birigui - São Paulo, Brazil
 * **Stack**: HTML5, CSS3, JavaScript, React, NodeJS, Java & SpringBoot.
 * **Graduating**: Internet Systems at Federal Institute of Education, Science and Technology of São Paulo.
