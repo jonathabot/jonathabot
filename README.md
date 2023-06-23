@@ -1,14 +1,14 @@
 ## Hello everyone!
 
-My name is Jonatha and I'm a B.Tech student in Internet Systems. My focus is **Web Development** but I'm adventuring in back-end too! I’m currently improving my skills in **JavaScript**, **React**, <span id="nodeJsText">**Node.js**</span> and many more! Feel free to check my projects and give me some feedbacks ☺️.
+My name is Jonatha and I'm a B.Tech student in Internet Systems. My focus is **Web Development** but I'm adventuring in full-stack applications too! I’m currently improving my skills in **JavaScript**, **React**, <span id="nodeJsText">**Node.js**</span>, **SQL** and many more! Feel free to check my projects and give me some feedbacks or hit me to help you with your projects ☺️.
 
 ## Detailed information
 
-* **Age**: 22
-* **Living in**: Birigui - São Paulo, Brazil
+* **Age**: 22.
+* **Living in**: Birigui - São Paulo, Brazil.
 * **Stack**: HTML5, CSS3, JavaScript, React, NodeJS, Java & SpringBoot.
 * **Graduating**: Internet Systems at Federal Institute of Education, Science and Technology of São Paulo.
-* **Currently:** Working as 'System Analyst' in a furniture factory. (AppsScript to Google Sheets and Google Data Studio)
+* **Currently:** Working as 'System Analyst' in a furniture factory. (Scripting Google Sheets using Google Apps Script | Dashboard development with Google Data Studio)
 
 <img src="https://i.pinimg.com/originals/9d/8e/fa/9d8efa6843eeef3b5700f35ecfe3eef5.gif" alt="drawing" width="380"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathabot)](https://github.com/jonathabot/github-readme-stats)
 
