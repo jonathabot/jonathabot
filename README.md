@@ -1,6 +1,6 @@
 ## Hello everyone!
 
-My name is Jonatha and I'm a B.Tech student in Internet Systems. My focus is **Web Development** but I'm adventuring in full-stack applications too! I’m currently improving my skills in **JavaScript**, **React**, **Next,js**, <span id="nodeJsText">**Node.js**</span>, **SQL** and many more! Feel free to check my projects and give me some feedbacks or hit me to help you with your projects ☺️.
+My name is Jonatha and I'm a B.Tech student in Internet Systems. My focus is **Web Development (Front-end)** but I'm adventuring in full-stack applications too! I’m currently improving my skills in **JavaScript**, **React**, **Next,js**, <span id="nodeJsText">**Node.js**</span>, **SQL** and many more! Feel free to check my projects and give me some feedbacks or hit me to help you with your projects ☺️.
 
 ## Detailed information
 
