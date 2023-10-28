@@ -1,12 +1,12 @@
 ## Hello everyone!
 
-My name is Jonatha and I'm a B.Tech student in Internet Systems. My focus is **Web Development (Front-end)** but I'm adventuring in full-stack applications too! I’m currently improving my skills in **JavaScript & TypeScript**, **React**, **Next,js**, <span id="nodeJsText">**Node.js**</span>, **SQL** and many more! Feel free to check my projects and give me some feedbacks or hit me to help you with your projects ☺️.
+My name is ***Jonatha Mathews*** and I'm a **Web Developer (Front-end)** but I'm adventuring in full-stack applications too! I’m currently improving my skills in **Next.js (React)** with **TypeScript (JavaScript)**, <span id="nodeJsText">**Node.js**</span>, **SQL** and many more! Feel free to check my projects and give me some feedbacks or hit me to help you with some your projects ☺️.
 
 ## Detailed information
 
 * **Age**: 22.
 * **Living in**: Birigui - São Paulo, Brazil.
-* **Stack**: HTML5, CSS3, JavaScript, TypeScript, React, ReactNative, Next.JS, NodeJS, Java & SpringBoot.
+* **Stack**: HTML5, CSS3, JavaScript, TypeScript, React, ReactNative, Next.JS, Tailwind CSS, NodeJS, Java & SpringBoot.
 * **Graduating**: Internet Systems at Federal Institute of Education, Science and Technology of São Paulo.
 * **Currently:** Working as 'System Development Analyst' in a furniture factory. (Developmeting new front-end features for the company's ERP.)
 
