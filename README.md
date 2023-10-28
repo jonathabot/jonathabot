@@ -1,6 +1,6 @@
 ## Hello everyone!
 
-My name is ***Jonatha Mathews*** and I'm a **Web Developer (Front-end)** but I'm adventuring in full-stack applications too! I’m currently improving my skills in **Next.js (React)** with **TypeScript (JavaScript)**, <span id="nodeJsText">**Node.js**</span>, **SQL** and many more! Feel free to check my projects and give me some feedbacks or hit me to help you with some your projects ☺️.
+My name is ***Jonatha Mathews*** and I'm a **Web Developer (Front-end)** but I'm adventuring in full-stack applications too! I’m currently improving my skills in **Next.js (React)** with **TypeScript (JavaScript)** and many more! Feel free to check my projects and give me some feedbacks or hit me to help you with some your projects ☺️.
 
 ## Detailed information
 
