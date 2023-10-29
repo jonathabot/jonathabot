@@ -1,6 +1,6 @@
 ## Hello everyone!
 
-My name is ***Jonatha Mathews*** and I'm a **Web Developer (Front-end)** but I'm adventuring in full-stack applications too! I’m currently improving my skills in **Next.js (React)** with **TypeScript (JavaScript)** and many more! Feel free to check my projects and give me some feedbacks or hit me to help you with some your projects ☺️.
+My name is ***Jonatha Mathews*** and I'm a **Web Developer (Front-end)** but also adventuring in full-stack applications too! I’m currently improving my skills in **Next.js (React)** with **TypeScript (JavaScript)** and many more! Feel free to check my projects and give me some feedbacks or hit me to help you with some your projects ☺️.
 
 ## Detailed information
 
@@ -27,4 +27,3 @@ My name is ***Jonatha Mathews*** and I'm a **Web Developer (Front-end)** but I'm
 ## More & more
 * I'm a hard skilled person with automatization of Google SpreadSheets using Google Apps Script and i'm a pro in Google Data Studio dashboards.
 * One of my dreams are to find a way to connect art with software engineering and make an real impact with it!
-* Also i'm a hard skilled person with automatization of Google Spreadsheets using scripts via Google Apps Script and dashboards development with Google Data Studio.
