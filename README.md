@@ -25,5 +25,5 @@ My name is ***Jonatha Mathews*** and I'm a **Web Developer (Front-end)** but als
 <img src="https://i.pinimg.com/originals/9d/8e/fa/9d8efa6843eeef3b5700f35ecfe3eef5.gif" alt="drawing" width="380"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathabot&theme=github_dark_dimmed)](https://github.com/jonathabot/github-readme-stats)
 
 ## More & more
-* I'm a hard skilled person with automatization of Google SpreadSheets using Google Apps Script and i'm a pro in Google Data Studio dashboards.
+* I'm a hard skilled person scripting Google SpreadSheets using Google Apps Script (JavaScript) and a pro in Google Data Studio dashboards.
 * One of my dreams are to find a way to connect art with software engineering and make an real impact with it!
