@@ -1,13 +1,13 @@
 ## Hello everyone!
 
-My name is ***Jonatha Mathews*** and I'm a **Web Developer (Front-end)** but also adventuring in full-stack applications too! I’m currently improving my skills in **Next.js (React)** with **TypeScript (JavaScript)** and many more! Feel free to check my projects and give me some feedbacks or hit me to help you with some your projects ☺️.
+My name is ***Jonatha Mathews*** and I'm a **Junior Web Developer (Front-end)** but also adventuring in full-stack applications too! I’m currently improving my skills in **Next.js (React)** with **TypeScript (JavaScript)** and many more! Feel free to check my projects and give me some feedbacks or hit me to help you with some your projects ☺️.
 
 ## Detailed information
 
 * **Age**: 22.
 * **Living in**: Birigui - São Paulo, Brazil.
 * **Graduating**: Internet Systems at **Federal Institute of Education, Science and Technology of São Paulo**.
-* **Currently:** Working as 'System Development Analyst' in a furniture factory. (Developmeting new front-end features for the company's ERP.)
+* **Currently:** Working as 'Junior Web Developer' in a furniture factory. (Creating new web systems and developmeting new front-end features for the company's ERP.)
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -26,4 +26,4 @@ My name is ***Jonatha Mathews*** and I'm a **Web Developer (Front-end)** but als
 
 ## More & more
 * I'm a hard skilled person scripting Google SpreadSheets using Google Apps Script (JavaScript) and a pro in Google Data Studio dashboards.
-* One of my dreams are to find a way to connect art with software engineering and make an real impact with it!
+* One of my dreams is to find a way to connect art with software engineering and make an real impact with it!
