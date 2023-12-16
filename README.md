@@ -6,7 +6,7 @@ My name is ***Jonatha Mathews*** and I'm a **Junior Web Developer (Front-end)** 
 
 * **Age**: 22.
 * **Living in**: Birigui - São Paulo, Brazil.
-* **Graduating**: Internet Systems at **Federal Institute of Education, Science and Technology of São Paulo**.
+* **Graduated**: Internet Systems at **Federal Institute of Education, Science and Technology of São Paulo**.
 * **Currently:** Working as 'Junior Web Developer' in a furniture factory. (Creating new web systems and developmeting new front-end features for the company's ERP.)
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
