@@ -1,10 +1,10 @@
 ## Hello everyone!
 
-My name is ***Jonatha Mathews*** and I'm a **Web Developer (Front-end)** with 1 year of profissional experience. Currently improving my skills in **React**, **Next.js**, *TailwindCSS*, **TypeScript & JavaScript**. I'm also adventuring in full-stack applications too! Feel free to check my projects and give me some feedbacks or hit me to help you with some your projects ☺️.
+My name is ***Jonatha Mathews*** and I'm a **Web Developer (Front-end)** with 1 year of profissional experience. Currently improving my skills in **React**, **Next.js**, **TailwindCSS**, **TypeScript & JavaScript**. I'm also adventuring in full-stack applications too! Feel free to check my projects and give me some feedbacks or hit me to help you with some your projects ☺️.
 
 ## Detailed information
 
-* **Age**: 22.
+* **Age**: 23.
 * **Living in**: Birigui - São Paulo, Brazil.
 * **Graduated**: Internet Systems at **Federal Institute of Education, Science and Technology of São Paulo**.
 * **Currently:** Working as 'Junior Web Developer' in a furniture factory. (Creating new web systems and developmeting new front-end features for the company's ERP.)
