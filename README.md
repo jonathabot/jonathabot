@@ -1,6 +1,6 @@
 ## Hello everyone!
 
-My name is ***Jonatha Mathews*** and I'm a **Web Developer (Front-end)** with 1 year of profissional experience. Currently improving my skills in **React**, **Next.js**, **TailwindCSS**, **TypeScript & JavaScript**. I'm also adventuring in full-stack applications too! Feel free to check my projects and give me some feedbacks or hit me to help you with some your projects ☺️.
+My name is ***Jonatha Mathews*** and I'm a **Software Engineer focused on Web Development (Front-end)** with 1 year of profissional experience. Currently improving my skills in **React**, **Next.js**, **TailwindCSS**, **TypeScript & JavaScript**. I'm also adventuring in full-stack applications too! Feel free to check my projects and give me some feedbacks or hit me to help you with some your projects ☺️.
 
 ## Detailed information
 
