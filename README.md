@@ -7,7 +7,7 @@ My name is ***Jonatha Mathews*** and I'm a **Software Engineer** specialising in
 * **Age**: 23.
 * **Lives in**: Birigui - São Paulo, Brazil.
 * **Degree in**: Internet Systems at the **Federal Institute of Education, Science and Technology of São Paulo (IFSP)**.
-* **Currently:** Working as 'System Analyst' in a furniture factory. (Creating new web systems and developing new front-end features for the company's ERP.)
+* **Currently:** Working as 'System Analyst' in a furniture factory. (Creating new web systems and developing new front-end features for the company's ERP. Stack: React, Next, JavaScript and TypeScript)
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
