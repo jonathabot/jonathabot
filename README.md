@@ -4,8 +4,6 @@ My name is ***Jonatha Mathews*** and I'm a **Software Engineer** with over a yea
 
 ## Detailed information
 
-* **Age**: 23.
-* **Lives in**: Birigui - São Paulo, Brazil.
 * **Degree in**: Internet Systems at the **Federal Institute of Education, Science and Technology of São Paulo (IFSP)**.
 * **Currently:** Working as 'System Analyst' in a furniture factory. (Creating new web applications and developing new front-end features for the company's ERP. Stack: React, Next, JavaScript and TypeScript)
 
