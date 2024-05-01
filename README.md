@@ -1,6 +1,6 @@
 ## Hello everyone!
 
-My name is ***Jonatha Mathews*** and I'm a **Software Engineer** with over a year of professional experience. My current area of specialization is **Web Development (Front-end)** with skills in **React**, **Next.js**, **TailwindCSS**, **TypeScript**, and **JavaScript** being practiced on a daily basis. I'm also exploring full-stack applications and full-cycle development using technologies like Node.js, Express and Nest.js. Feel free to contact me to help you with some of your projects or to give me feedback ☺️.
+My name is ***Jonatha*** and I'm a **Software Engineer** with over a year of professional experience. My current area of specialization is **Web Development (Front-end)** with skills in **React**, **Next.js**, **TailwindCSS**, **TypeScript**, and **JavaScript** being practiced on a daily basis. I'm also exploring full-stack applications and full-cycle development using technologies like Node.js, Express, and Nest.js. Feel free to contact me to help you with some of your projects or to give me feedback ☺️.
 
 ## Detailed information
 
