@@ -19,6 +19,7 @@ My name is ***Jonatha*** and I'm a **Software Engineer** with over a year of pro
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&labelColor=black&logo=firebase&logoColor=F0DB4F)
 
 <img src="https://i.pinimg.com/originals/9d/8e/fa/9d8efa6843eeef3b5700f35ecfe3eef5.gif" alt="drawing" width="380"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathabot&theme=github_dark_dimmed)](https://github.com/jonathabot/github-readme-stats)
 
