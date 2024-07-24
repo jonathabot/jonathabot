@@ -24,6 +24,6 @@ My name is ***Jonatha*** and I'm a **Software Engineer** with over a year of pro
 <img src="https://i.pinimg.com/originals/9d/8e/fa/9d8efa6843eeef3b5700f35ecfe3eef5.gif" alt="drawing" width="380"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathabot&theme=github_dark_dimmed)](https://github.com/jonathabot/github-readme-stats)
 
 ## More & more
-* I'm an expert in scripting Google Spreadsheets using Google Apps Script (JavaScript) and a pro in Google Data Studio dashboards.
+* I'm an expert in scripting Google Spreadsheets using Google Apps Script (JavaScript) and a pro in Looker (Google Data Studio) dashboards.
 * I also develop 'no code' applications using Google Appsheet. 
 * One of my dreams is to find a way to combine art with software engineering and make a real impact!
