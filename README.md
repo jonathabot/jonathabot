@@ -1,6 +1,6 @@
 ## Hello everyone!
 
-My name is ***Jonatha Mathews*** and I'm a **Software Engineer** with over two year of professional experience. My current area of specialization is **Google Workspace Development** and **Web Development (Front-end)** with practiced skills in **React**, **Next.js**, **TailwindCSS**, **TypeScript**, and **JavaScript**. I'm also exploring full-stack applications and full-cycle development using technologies like Node.js, Express, and Nest.js. Feel free to contact me to help you with some of your projects or to give me feedback ☺️.
+My name is ***Jonatha Mathews*** and I'm a **Software Engineer** with over two years of professional experience. My current area of specialization is **Google Workspace Development** and **Web Development (Front-end)** with hard skills in **React**, **Next.js**, **TailwindCSS**, **JavaScript** and **TypeScript**. I'm also exploring full-stack development using technologies like Node.js, Express, and Nest.js. Feel free to contact me to help you with some of your projects or to give me feedback ☺️.
 
 ## Detailed information
 
@@ -25,5 +25,4 @@ My name is ***Jonatha Mathews*** and I'm a **Software Engineer** with over two y
 
 ## More & more
 * I'm an expert in scripting Google Spreadsheets using Google Apps Script (JavaScript) and a pro in Looker (Google Data Studio) dashboards.
-* I also develop 'no code' applications using Google Appsheet. 
-* One of my dreams is to find a way to combine art with software engineering and make a real impact!
+* I also develop 'no code' applications using Google AppSheet. 
