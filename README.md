@@ -1,11 +1,11 @@
 ## Hello everyone!
 
-My name is ***Jonatha Mathews*** and I'm a **Software Engineer** with over two years of professional experience. My current area of specialization is **Google Workspace Development** and **Web Development (Front-end)** with hard skills in **React**, **Next.js**, **TailwindCSS**, **JavaScript** and **TypeScript**. I'm also exploring full-stack development using technologies like Node.js, Express, and Nest.js. Feel free to contact me to help you with some of your projects or to give me feedback ☺️.
+My name is ***Jonatha Mathews*** and I'm a **Software Engineer** with over three years of professional experience. My current area of specialization is **Google Workspace Development** and **Web Development (Front-end)** with hard skills in **React**, **Next.js**, **TailwindCSS**, **JavaScript** and **TypeScript**. I'm also exploring full-stack development using technologies like Node.js, Express, and Nest.js. Feel free to contact me to help you with some of your projects or to give me feedback ☺️.
 
 ## Detailed information
 
 * **Degree in**: Internet Systems at the **Federal Institute of Education, Science and Technology of São Paulo (IFSP)**.
-* **Currently:** Working as a 'Google Workspace Developer'. (Creating and developing new features for AppSheet apps)
+* **Currently:** Working as a 'Google Workspace Developer'. (Creating and developing new features for AppSheet apps | Dashboards)
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
