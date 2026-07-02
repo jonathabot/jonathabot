@@ -1,7 +1,8 @@
 ## Hello everyone! 👋
+
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4285F4&width=550&lines=I'm+Jonatha+Mathews;Software+Engineer;Google+Cloud+%26+Workspace+Dev;Front-end+Developer;Data+Analyst" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&width=550&lines=Software+Engineer;Google+Cloud+%26+Workspace+Dev;Front-end+Developer;Data+Analyst" alt="Typing SVG" />
   </a>
 </p>
 
